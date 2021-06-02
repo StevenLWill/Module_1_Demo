@@ -16,7 +16,7 @@ loan_costs = [500, 600, 200, 1000, 450]
 
 print(loan_costs[0])
 
-def say_hi():
+def bad_function_name():
     print(loan_costs)
 
 
