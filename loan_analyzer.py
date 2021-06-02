@@ -16,7 +16,11 @@ loan_costs = [500, 600, 200, 1000, 450]
 
 print(loan_costs[0])
 
+<<<<<<< HEAD
 def bad_function_name():
+=======
+def print_hi():
+>>>>>>> d1a6ceea6fc5d83e51699ed49875887e52dda7cd
     print(loan_costs)
 
 
