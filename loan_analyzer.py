@@ -20,6 +20,10 @@ def print_hello():
     print('Hello world!')
 
 
+def print_loans():
+    print(loan_costs)
+
+
 # How many loans are in the list?
 # @TODO: Use the `len` function to calculate the total number of loans in the list.
 # Print the number of loans from the list
