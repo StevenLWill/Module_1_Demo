@@ -17,7 +17,7 @@ loan_costs = [500, 600, 200, 1000, 450]
 print(loan_costs[0])
 
 def print_hello():
-    print('Hello world!')
+    print(loan_costs)
 
 
 # How many loans are in the list?
